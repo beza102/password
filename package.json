@@ -1,0 +1,21 @@
+{
+  "name": "passwored-checker",
+  "version": "1.0.0",
+  "description": "A partner exercise to practice using JUnit tests.",
+  "main": "app.js",
+
+  "directories": {
+    "lib": "lib"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
